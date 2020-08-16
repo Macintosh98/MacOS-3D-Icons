@@ -1,9 +1,11 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.62531 -43.336 43.336 -.62531 24.6253 45.668)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#383838" offset="0"/>
-  <stop stop-color="#636365" offset="1"/>
- </linearGradient>
- <path d="m45.668 8.56c0-3.438-2.79-6.228-6.228-6.228h-30.88c-3.438 0-6.228 2.79-6.228 6.228v30.88c0 3.438 2.79 6.228 6.228 6.228h30.88c3.438 0 6.228-2.79 6.228-6.228z" fill="url(#a)"/>
- <path d="m30.047 13.688h-14.653c-1.057 0-2.071.42-2.818 1.167-.747.748-1.167 1.762-1.167 2.819v.109c0 1.057.42 2.071 1.167 2.818.747.748 1.761 1.167 2.818 1.167h16.736c2.729 0 4.94 2.212 4.94 4.94v.003c0 2.728-2.211 4.94-4.94 4.94h-4.568" fill="none" stroke="#e3e3e6" stroke-width="3.83"/>
- <path d="m21.038 31.815 10.229-5.115v10.23z" fill="#e3e3e6"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient4217" x1="409.57144" x2="409.57144" y1="543.79797" y2="503.798" gradientTransform="matrix(1.1,0,0,1.1,-425.42863,-552.17781)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4305" style="stop-color:#c6cdd1" offset="0"/>
+   <stop id="stop4307" style="stop-color:#e0e5e7" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect4144" d="m7.7823377 2.0000005h32.435325c3.203415 0 5.782337 2.5789224 5.782337 5.7823372v32.435325c0 3.203415-2.578922 5.782337-5.782337 5.782337h-32.435325c-3.2034148 0-5.7823372-2.578922-5.7823372-5.782337v-32.435325c0-3.2034148 2.5789224-5.7823372 5.7823372-5.7823372z" style="fill:url(#linearGradient4217)"/>
+ <path id="path851" d="m33.5 17.25v7h-13v-3.5l-1.640625 0.912109-7.359375 4.087891 9 5v-3.5h16v-3-7h-3z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#35383b;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

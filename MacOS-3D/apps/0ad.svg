@@ -1,15 +1,18 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -45.528 45.528 0 -.833455 46.764)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#c61423" offset="0"/>
-  <stop stop-color="#ff4c63" offset="1"/>
- </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -41.3891 41.3891 0 -.833455 44.6945)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#ffb900" offset="0"/>
-  <stop stop-color="#ffff02" offset="1"/>
- </linearGradient>
- <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
- <g fill="none" stroke="url(#b)">
-  <circle cx="24" cy="24" r="19.142" stroke-width="2.59"/>
-  <path d="m14.429 31.76h3.621m-2.328 0 8.278-17.59 8.278 17.59m-2.328 0h3.621z" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient985" x1="121.75293" x2="121.75293" y1="86.767593" y2="50.837753" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350403)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ed1e1b" offset="0"/>
+<stop stop-color="#ec5452" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1108" x1="24.041739" x2="24.041739" y1="59.019131" y2="4.9252176" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffb900" offset="0"/>
+<stop stop-color="#ffff02" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<circle cx="24" cy="24" r="23" fill="url(#linearGradient985)" stroke-width="2.042697"/>
+<path d="m21 12.158203v2h1.2558594l-8.0527344 16.683797h-2.0078125v2h6v-2h-1.8300781l7.6347656-15.662312 7.6347656 15.662312h-1.8300781v2h6v-2h-2.0078125l-8.0527344-16.683797h1.2558594v-2h-3.9257812z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#f7ec21" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m24 4c-11.03385 0-20 8.9661496-20 20s8.9661496 20 20 20 20-8.9661496 20-20-8.9661496-20-20-20zm0 2c9.9529701 0 18 8.0470299 18 18s-8.0470299 18-18 18-18-8.0470299-18-18 8.0470299-18 18-18z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1108)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</g>
 </svg>

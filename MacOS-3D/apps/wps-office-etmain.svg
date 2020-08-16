@@ -1,14 +1,12 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.00109739 -43.1476 43.1476 -.00109739 230.148 45.3582)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#b7b4b4" offset="0"/>
-  <stop stop-color="#f1f1f1" offset="1"/>
- </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(0 -42.2226 42.2226 0 165.285 44.3392)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#3cd551" offset="0"/>
-  <stop stop-color="#52ef83" offset="1"/>
- </linearGradient>
- <path d="m42.397 45.363-12.085-.014v-43.099l12.431-.045c2.16.026 3.24 1.708 3.24 3.729v35.526c.094 2.219-1.372 3.855-3.586 3.903z" fill="url(#a)"/>
- <path d="m23.275 2.257 16.512-1.548c2.209-.223 3.174.962 3.191 3.337l-.14 39.051c-.04 2.642-1.222 4.026-3.552 4.123l-15.903-1.857h-16.984c-2.169 0-4.373-1.766-4.385-4.518v-34.223c.083-3.166 1.403-4.359 4.569-4.417z" fill="url(#b)"/>
- <path d="m42.838 43.097c-.04 2.642-1.222 4.026-3.552 4.123l-16.083-1.878v-43.078l16.584-1.555c2.209-.223 3.174.962 3.191 3.337z" fill-opacity=".15"/>
- <path d="m15.316 32.684h12.158s5.21 0 5.21-4.342-5.21-4.342-5.21-4.342h-6.948s-5.21 0-5.21-4.342 5.21-4.342 5.21-4.342h12.158" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="4.63"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1282" x1="-9.2889891" x2="-9.2889891" y1="1036.1134" y2="1010.4963" gradientTransform="matrix(1.686599,0,0,1.6350627,40.208809,-1649.389)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3bd450" offset="0"/>
+   <stop stop-color="#53f086" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m6 2h36c2.216 0 4 1.784 4 4v36c0 2.216-1.784 4-4 4h-36c-2.216 0-4-1.784-4-4v-36c0-2.216 1.784-4 4-4z" style="fill:url(#linearGradient1282);paint-order:stroke fill markers"/>
+ <path d="m20.526249 12.999969s-1.687509-0.03287-3.496093 0.720703c-1.808585 0.753577-4.029297 2.840131-4.029297 5.9375 0 3.097368 2.220712 5.183923 4.029297 5.9375 1.808584 0.753577 3.496093 0.720703 3.496093 0.720703h6.947266s0.918165 0.03133 1.714844 0.363281c0.796678 0.33195 1.179687 0.417372 1.179687 1.66211 0 1.244736-0.383009 1.330159-1.179687 1.662109-0.796679 0.331949-1.714844 0.365234-1.714844 0.365234h-12.158203a2.316021 2.316021 0 1 0 0 4.63086h12.158203s1.687509 0.03287 3.496094-0.720703c1.808585-0.753577 4.03125-2.840132 4.03125-5.9375 0-3.097369-2.222665-5.183923-4.03125-5.9375-1.808585-0.753578-3.496094-0.720704-3.496094-0.720704h-6.947266s-0.918165-0.03133-1.714843-0.363281c-0.796679-0.331949-1.179688-0.417373-1.179688-1.662109 0-1.244738 0.383009-1.33016 1.179688-1.66211 0.796678-0.331949 1.714843-0.365234 1.714843-0.365234h12.158204a2.316021 2.316021 0 1 0 0-4.630859z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill-opacity:.99009902;fill:#ffffff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m7 4c-1.6447028 0-3 1.3552972-3 3v34c0 1.644703 1.3552972 3 3 3h34c1.644703 0 3-1.355297 3-3v-34c0-1.6447028-1.355297-3-3-3zm0 2h34c0.571297 0 1 0.4287028 1 1v34c0 0.571297-0.428703 1-1 1h-34c-0.5712972 0-1-0.428703-1-1v-34c0-0.5712972 0.4287028-1 1-1z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#ffffff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
 </svg>

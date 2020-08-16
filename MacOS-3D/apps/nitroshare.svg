@@ -1,11 +1,11 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(0 -41.9917 41.9917 0 19.7724 44.9917)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#363636" offset="0"/>
-  <stop stop-color="#4f4f4f" offset="1"/>
- </linearGradient>
- <g transform="matrix(1.07879 0 0 1.07879 -1.89087 -1.89087)" fill-rule="nonzero">
-  <path d="m27.881 3.002c-1.019.03-1.988.449-2.709 1.17l-7.828 7.826h-2.344c-2.209.001-4 1.791-4 4v17.997c0 2.209 1.791 3.999 4 3.999h1v3c.001 3.562 4.308 5.345 6.828 2.827l7.828-7.826h2.344c2.209-.001 4-1.791 4-4v-17.997c0-2.209-1.791-3.999-4-3.999h-1v-3c0-2.255-1.864-4.064-4.119-3.997z" fill="url(#a)"/>
-  <path d="m28 7-9 9h-4v18h5v7l9-9h4v-18h-5z" fill-opacity=".59"/>
-  <path d="m16 17v12h4v-6l8 8h4v-12h-4v6l-8-8z" fill="#fff"/>
- </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="48" height="48" enable-background="new -51 53 96 96" version="1.1" viewBox="-51 53 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs17">
+  <linearGradient id="linearGradient3364" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873" gradientTransform="matrix(1.6428584,0,0,1.6428584,-685.08211,-796.66872)" gradientUnits="userSpaceOnUse">
+   <stop id="stop7-6" stop-color="#197ff1" offset="0"/>
+   <stop id="stop9-7" stop-color="#21c6fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="circle12" d="m-4.0001049 76.999947a22.999949 22.999949 0 0 1-22.999948 22.999948 22.999949 22.999949 0 0 1-22.999949-22.999948 22.999949 22.999949 0 0 1 22.999949-22.999949 22.999949 22.999949 0 0 1 22.999948 22.999949z" style="fill:url(#linearGradient3364);stroke-width:2.1357157"/>
+ <path id="path1015" d="m-33.666069 66.999947a3.3333339 3.3333339 0 0 0-3.333984 3.333984 3.3333339 3.3333339 0 0 0 3.333984 3.332032 3.3333339 3.3333339 0 0 0 0.822266-0.105469l3.845703 7.443359a3.333334 3.333334 0 0 0-1.335937 2.66211 3.333334 3.333334 0 0 0 3.333984 3.333984 3.333334 3.333334 0 0 0 3.333984-3.333984 3.333334 3.333334 0 0 0-1.332031-2.66211l3.84375-7.445312a3.3333339 3.3333339 0 0 0 0.820313 0.107422 3.3333339 3.3333339 0 0 0 3.333984-3.332032 3.3333339 3.3333339 0 0 0-3.333984-3.333984 3.3333339 3.3333339 0 0 0-3.332032 3.333984 3.3333339 3.3333339 0 0 0 1.494141 2.775391l-3.816406 7.386719a3.333334 3.333334 0 0 0-1.011719-0.16211 3.333334 3.333334 0 0 0-1.013672 0.158204l-3.8125-7.38086a3.3333339 3.3333339 0 0 0 1.492188-2.777344 3.3333339 3.3333339 0 0 0-3.332032-3.333984z" style="fill:#ffffff;paint-order:stroke fill markers"/>
 </svg>

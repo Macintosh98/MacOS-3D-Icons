@@ -1,6 +1,7 @@
 # MacOS-3D Icons theme
 
 MacOS-3D Icons is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
+
 Based on XONE II Icons --  [XONE_II_ICON_THEME](https://github.com/unc926/XONE_II_ICON_THEME)
 
 ## Installation

@@ -1,1 +1,20 @@
-gnome-power-manager.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient835" x1="25.316662" x2=".87304699" y1="24" y2="24" gradientTransform="matrix(0 .26458333 .26458333 0 -1.2382324e-7 .03358)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8c8c8c" offset="0"/>
+<stop stop-color="#bcbcbc" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient884" x1="108.50592" x2="108.50592" y1="59.655876" y2="54.468136" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350403)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5ee626" offset="0"/>
+<stop stop-color="#8ded67" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<g>
+<path d="m6.3499999 12.43543a6.0854168 6.0854168 0 0 0 6.0854171-6.08542 6.0854168 6.0854168 0 0 0-6.0854171-6.08541 6.0854168 6.0854168 0 0 0-6.0854168 6.08541 6.0854168 6.0854168 0 0 0 6.0854168 6.08542z" fill="url(#linearGradient835)"/>
+<path d="m4.9030598 5.29217c-1.8901905 0.0359-3.8983545 1.20589-4.5976522 1.73374a6.0854167 6.0854167 0 0 0 6.0445923 5.40949 6.0854167 6.0854167 0 0 0 5.9123001-4.67361c-0.809376 0.13585-2.8413253-0.45706-5.5138749-2.02985-0.5604383-0.32982-1.1952238-0.45213-1.8453653-0.43977z" fill="url(#linearGradient884)"/>
+<path d="m6.9687849 2.38124-2.4708684 4.75586h1.7292876l-0.495989 3.18164 2.4708681-4.75587h-1.729287z" fill="#ffffff" style="paint-order:stroke fill markers"/>
+</g>
+</g>
+</svg>

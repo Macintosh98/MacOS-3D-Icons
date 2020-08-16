@@ -1,17 +1,18 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <linearGradient id="a" x2="1" gradientTransform="matrix(-.651217 -42.5502 42.5502 -.651217 77.8888 43.7381)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#6300a3" offset="0"/>
-  <stop stop-color="#db50c8" offset="1"/>
- </linearGradient>
- <linearGradient id="b" x2="1" gradientTransform="matrix(-4.2e-7 -34.1017 34.1017 -4.2e-7 267.418 41.2403)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#d6b1e1" offset="0"/>
-  <stop stop-color="#fff" offset="1"/>
- </linearGradient>
- <linearGradient id="c" x2="1" gradientTransform="matrix(0 -31.861 31.861 0 497.054 39.4839)" gradientUnits="userSpaceOnUse">
-  <stop stop-color="#6300a3" offset="0"/>
-  <stop stop-color="#d54cc6" offset="1"/>
- </linearGradient>
- <circle cx="24" cy="24" r="22.734" fill="url(#a)"/>
- <circle cx="24" cy="24.189" r="17.051" fill="url(#b)"/>
- <path d="m16.095 17.073c0-.783.412-1.509 1.084-1.911.673-.401 1.507-.42 2.196-.049 3.715 2.001 9.751 5.251 13.608 7.328.721.388 1.17 1.14 1.17 1.959s-.449 1.571-1.17 1.959c-3.857 2.077-9.893 5.327-13.608 7.328-.689.371-1.523.352-2.196-.049-.672-.402-1.084-1.127-1.084-1.911z" fill="url(#c)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs866">
+  <linearGradient id="linearGradient1485" x1="27.0625" x2="26.875" y1="40.312527" y2="-8.0624733" gradientTransform="matrix(.75862069 0 0 .75862069 3.6594827 12.905172)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1479" style="stop-color:#253444" offset="0"/>
+   <stop id="stop1481" style="stop-color:#405a75" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect4148" x="2.7586215" y="4.2759023" width="42.482758" height="39.448235" style="fill:url(#linearGradient1485)"/>
+ <path id="rect4151" d="m2.7586206 3.517241c-0.4203047 0-0.7586207 0.3383448-0.7586207 0.7586207v39.448276c0 0.420275 0.338316 0.75862 0.7586207 0.75862h42.482758c0.420305 0 0.758621-0.338345 0.758621-0.75862v-39.448276c0-0.4202759-0.338316-0.7586207-0.758621-0.7586207h-41.724138zm0.7586207 3.0344827h40.965518v36.413793h-40.965518z" style="fill:#34495e"/>
+ <circle id="path4155" cx="43.724125" cy="5.034523" r=".75862068" style="fill:#ecf0f1"/>
+ <rect id="rect4153" x="3.517242" y="6.551764" width="40.965519" height=".77293432" style="fill:#b836d8"/>
+ <path id="rect4171" d="m1.9999999 43.724138c0 0.420275 0.338316 0.75862 0.7586207 0.75862h42.482758c0.420305 0 0.758621-0.338345 0.758621-0.75862z" style="fill:#2c3e4f"/>
+ <rect id="rect4211" x="3.5172412" y="37.655212" width="29.586206" height=".75862068" style="fill:#b836d8"/>
+ <circle id="path4162" cx="32.724133" cy="38.034153" r="1.8965514" style="fill:#b836d8"/>
+ <circle id="circle4164" cx="32.724133" cy="38.034153" r="1.1379306" style="fill:#dadfe1"/>
+ <path id="path4240" d="m18.689655 29.310344v-15.172413l10.62069 8.169813z" style="fill-rule:evenodd;fill:#b836d8"/>
 </svg>
