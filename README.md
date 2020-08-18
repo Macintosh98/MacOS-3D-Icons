@@ -15,5 +15,5 @@ To install themes :
 
 ![MacOS-3D](preview/1.png?raw=true)
 ![MacOS-3D](preview/2.png?raw=true)
-
+![MacOS-3D](preview/3.png?raw=true)
 
