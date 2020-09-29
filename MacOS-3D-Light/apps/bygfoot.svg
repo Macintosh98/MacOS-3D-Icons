@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient921" x1="174.27161" x2="174.27161" y1="1001.3062" y2="884.38275" gradientTransform="matrix(.34001978 0 0 .34055744 -35.214054 -297.0927)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5ee626" offset="0"/>
+<stop stop-color="#8ded67" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="4" y="4" width="40" height="40" rx="4" ry="4" fill="url(#linearGradient921)" style="paint-order:fill markers stroke"/>
+<path d="m9 15v18h30v-18h-30zm1 1h9.6074219 3.8925781v4.0507812c-1.9661346 0.24968893-3.5 1.9171192-3.5 3.9492188 0 2.0320996 1.5338654 3.6995298 3.5 3.9492188v4.0507812h-13.5v-3h5v-2.1835938c1.1784949-0.41891454 1.9978624-1.5372886 2-2.8164062-1.3888e-4 -1.2811925-0.81944527-2.401226-2-2.8203125v-2.1796875h-5v-3zm14.5 0h3.8925781 9.6074219v3h-5v2.1835938c-1.1784949 0.41891454-1.9978624 1.5372886-2 2.8164062 1.3888e-4 1.2811925 0.81944527 2.401226 2 2.8203125v2.1796875h5v3h-13.5v-4.0507812c1.9661346-0.24968892 3.5-1.9171191 3.5-3.9492188 0-2.0320996-1.5338654-3.6995298-3.5-3.9492188v-4.0507812zm-14.5 4h4v8h-4v-8zm24 0h4v8h-4v-8zm-10.5 1.0507812v5.8984375c-1.4211573-0.2379381-2.5-1.4581102-2.5-2.9492188s1.0788427-2.7112806 2.5-2.9492188zm1 0c1.4211573 0.2379381 2.5 1.4581102 2.5 2.9492188s-1.0788427 2.7112806-2.5 2.9492188v-5.8984375zm-9.5 1.3515625c0.5673184 0.35728683 0.99992359 0.89277067 1 1.5976562-0.001176 0.70350869-0.43385497 1.2369714-1 1.59375v-3.1914062zm18 0.00390625v3.1914062c-0.5673184-0.35728633-0.99992359-0.89277062-1-1.5976562 0.001176-0.70350869 0.43385497-1.236971 1-1.59375z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ffffff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</g>
+</svg>

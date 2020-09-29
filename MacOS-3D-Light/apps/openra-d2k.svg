@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient868" x1="-47.898304" x2="-47.898304" y1="48.203392" y2="6.8679581" gradientTransform="translate(71.898305,-1.2033906)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#253444" offset="0"/>
+<stop stop-color="#405a75" offset="1"/>
+</linearGradient>
+<style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<style type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<style type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<style type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+<linearGradient id="linearGradient1008" x1="123.37688" x2="121.88284" y1="72.43457" y2="61.668591" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350405)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffb40d" offset="0"/>
+<stop stop-color="#ffcc5d" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<path d="m6 1 18 4 18-4v36l-18 10-18-10z" fill="url(#linearGradient868)" style="paint-order:fill markers stroke"/>
+<circle cx="24" cy="22" r="7" fill="url(#linearGradient1008)" style="paint-order:fill markers stroke"/>
+<circle cx="36" cy="21" r="2" fill="#bcbcbc" style="paint-order:fill markers stroke"/>
+<circle cx="15" cy="21.5" r="1" fill="#bcbcbc" style="paint-order:fill markers stroke"/>
+<path d="m34.242188 16.453125c-0.31615555-0.006954-0.64567259-0.004693-0.99023438 0.003906-0.97208968 0.0242593-2.0830806 0.13201116-3.2460937 0.27929687a8 8 0 0 1 0.69140624 0.91601563c0.92195948-0.1036184 1.8008374-0.17786779 2.578125-0.19726563 1.3202563-0.0329481 2.4091197 0.0592612 3.1503906 0.25390626 0.74127094 0.19464504 1.045018 0.47152031 1.0976562 0.66796874 0.00308 0.011493-0.001814 0.0301513 0 0.0429688a3 3 0 0 1 0.85351562 0.75390624c0.15352503-0.34225283 0.20772476-0.69493037 0.11132813-1.0546875-0.19750997-0.73711721-0.9156352-1.1405244-1.8085938-1.375-0.6697189-0.1758567-1.4890333-0.2701523-2.4374999-0.29101541zm-1.109375 5.4238281c-2.2267794 1.0765239-5.1023204 2.1498059-8.3554688 3.0214844-3.8361277 1.0278873-7.4141749 1.5805882-10.054688 1.6464844-1.3202563 0.0329481-2.4071666-0.0592612-3.1484375-0.25390626-0.74127093-0.19464504-1.045018-0.46956718-1.0976562-0.66601562-0.0526382-0.19644843 0.0725506-0.58970323 0.6171875-1.1289062 0.51028579-0.50519459 1.351161-1.0871473 2.40625-1.6777344a2 2 0 0 1-0.453125-0.89648438c-1.1275124 0.62630641-2.0344884 1.2477425-2.6582031 1.8652344-0.65608699 0.64954111-1.0744631 1.3585859-0.87695313 2.0957031 0.19750997 0.73711725 0.91368207 1.1405244 1.8066406 1.375 0.89295854 0.23447561 2.0514404 0.32150465 3.4296875 0.28710938 2.7564943-0.0687905 6.3879786-0.63491857 10.287109-1.6796875 3.3117358-0.88737696 6.2425858-1.97937 8.546875-3.0957031a3 3 0 0 1-0.44921787-0.89257822z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ffffff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</g>
+</svg>
