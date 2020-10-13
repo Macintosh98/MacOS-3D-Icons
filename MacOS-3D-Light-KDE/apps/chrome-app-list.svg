@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path d="m5 5h10v10h-10z" fill="#ec4946" style="paint-order:fill markers stroke"/>
+<path d="m33 5h10v10h-10z" fill="#ec4946" style="paint-order:fill markers stroke"/>
+<path d="m5 33h10v10h-10z" fill="#46e068" style="paint-order:fill markers stroke"/>
+<path d="m33 33h10v10h-10z" fill="#ff8737" style="paint-order:fill markers stroke"/>
+<path d="m19 5h10v10h-10z" fill="#ec4946" style="paint-order:fill markers stroke"/>
+<path d="m19 33h10v10h-10z" fill="#ffc519" style="paint-order:fill markers stroke"/>
+<path d="m5 19h10v10h-10z" fill="#46e068" style="paint-order:fill markers stroke"/>
+<path d="m33 19h10v10h-10z" fill="#ffc519" style="paint-order:fill markers stroke"/>
+<path d="m19 19h10v10h-10z" fill="#43b4f7" style="paint-order:fill markers stroke"/>
+</g>
+</svg>

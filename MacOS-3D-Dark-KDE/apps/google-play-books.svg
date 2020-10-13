@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient849" x1="24.960672" x2="24.960672" y1="40.811901" y2="1.563974" gradientTransform="translate(0 .075000005)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3889e9" offset="0"/>
+<stop stop-color="#5ea5fb" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient841" x1="24.497028" x2="24.497028" y1="46.92453" y2="40.92453" gradientTransform="translate(0 .075000565)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#bae0f3" offset="0"/>
+<stop stop-color="#d4edfa" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<path d="m11 0.9996499c-2.216 0-4 1.784-4 4v39h10v-39c0-2.216-1.784-4-4-4z" fill="#285b99" style="paint-order:fill markers stroke"/>
+<path d="m11 1v40l30-4.7167e-4v-40z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient849)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m10 40.999529c-1.662 0-3 1.338-3 3s1.338 3 3 3h31v-0.76757812a3 3 0 0 1-1-2.2324219 3 3 0 0 1 1-2.2304688v-0.76953125z" fill="url(#linearGradient841)" style="paint-order:fill markers stroke"/>
+<path d="m25 1.0003501h10v20l-5-4-5 4z" fill="#ffffff" style="paint-order:fill markers stroke"/>
+</g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient936" x1="148.21243" x2="148.66713" y1="78.963341" y2="42.968643" gradientTransform="matrix(1.2851141,0,0,1.2871462,-166.51162,-54.388664)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#293e53" offset="0"/>
+<stop stop-color="#3f5f7e" offset="1"/>
+</linearGradient>
+</defs>
+<g>
+<circle cx="24" cy="24" r="23" fill="url(#linearGradient936)" stroke-width=".1113615"/>
+<path d="m24.644531 13.000025-5.3593753 19.999975h2.0703122l5.3593765-19.999975z" fill="#ffffff" stroke-width="3.7795274" style="paint-order:stroke fill markers"/>
+<path d="m16.656854 28.656869 1.4142138-1.4142236-4.2426406-4.242633 4.2426406-4.242633-1.4142138-1.4142236-5.6568544 5.6568566z" fill="#ffffff" stroke-width="3.7795274" style="paint-order:stroke fill markers"/>
+<path d="m28.5 17.34375v2h4.5v4h-3v4h2v-2h3v-8z" fill="#ffffff" stroke-width="3.7795274" style="paint-order:stroke fill markers"/>
+<path d="m29.999994 29.34309h2v1.9999999h-2z" fill="#ffffff" stroke-width="3.7795274" style="paint-order:stroke fill markers"/>
+</g>
+</svg>
