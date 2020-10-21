@@ -8,7 +8,7 @@ Example=directory-x-normal
 FollowsColorScheme=true
 
 # Directory list
-Directories=actions/scalable-light,apps,places/16,places/22,places/24,places/scalable,places/symbolic,mimetypes/scalable,panel/16-light,panel/24-light,status/scalable-light,status/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic
+Directories=actions/scalable-light,apps,places/16,places/22,places/24,places/scalable,places/symbolic,mimetypes/scalable,panel/16-light,panel/24-light,status/scalable-light,status/symbolic,devices/symbolic,devices/scalable-light,emblems/scalable,emblems/symbolic
 
 [actions/scalable-light]
 Size=256
@@ -100,7 +100,7 @@ Type=Scalable
 MinSize=8
 MaxSize=128
 
-[devices/scalable]
+[devices/scalable-light]
 Size=48
 Context=Devices
 Type=Scalable

@@ -1,1 +1,15 @@
-<svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientTransform="matrix(.21184108 0 0 .2134677 -67 998.3622)" gradientUnits="userSpaceOnUse" x1="25.25" x2="24.5" y1="1004.1122" y2="1053.3622"><stop offset="0" stop-color="#00c6ff"/><stop offset="1" stop-color="#0068ff"/></linearGradient><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="23.28" x2="23.4" y1="1052.243064" y2="1004.003064"><stop offset="0" stop-color="#e6e6e6"/><stop offset="1" stop-color="#fff"/></linearGradient><g transform="matrix(.95833333 0 0 .95833333 1 -961.513771)"><circle cx="24" cy="1028.3622" fill="url(#a)" r="24"/><path d="m39.390625 17.685547-11.552734 6.296875-6.078125-6.078125-12.8437504 13.599609 16.4472654 16.447266a24 24 0 0 0 22.527344-21.765625z" fill-opacity=".078431" transform="translate(0 1004.3622)"/><path d="m21.627343 1021.9121-12.8444437 13.5995 11.6895267-6.4136 6.107602 6.4136 12.771929-13.5995-11.559808 6.3013z" fill="#fff"/><path d="m24 1004.3622c-13.243463 0-24 10.7566-24 24 0 13.2435 10.756537 24 24 24s24-10.7565 24-24c0-13.2434-10.756537-24-24-24zm0 1.92c12.205818 0 22.08 9.8742 22.08 22.08s-9.874182 22.08-22.08 22.08-22.08-9.8742-22.08-22.08 9.874182-22.08 22.08-22.08z" fill="url(#b)"/></g></svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x2="1" gradientTransform="matrix(0 -35.3911 35.3911 0 968.766 41.2823)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#006783" offset="0"/>
+  <stop stop-color="#13bee3" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x2="1" gradientTransform="matrix(.11382 -45.7556 45.7556 .11382 125.627 46.9055)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#e6e6e6" stop-opacity=".46" offset="0"/>
+  <stop stop-color="#fff" stop-opacity=".44" offset="1"/>
+ </linearGradient>
+ <circle cx="24" cy="24" r="22.764" fill="url(#a)"/>
+ <g fill-rule="nonzero">
+  <path d="m21.726 17.819-12.309 13.033 11.202-6.147 5.854 6.147 12.239-13.033-11.078 6.038z" fill="#fff"/>
+  <path d="m24 1.236c-12.562 0-22.764 10.202-22.764 22.764s10.202 22.764 22.764 22.764 22.764-10.202 22.764-22.764-10.202-22.764-22.764-22.764zm0 1.821c11.577 0 20.943 9.366 20.943 20.943s-9.366 20.943-20.943 20.943-20.943-9.366-20.943-20.943 9.366-20.943 20.943-20.943z" fill="url(#b)"/>
+ </g>
+</svg>

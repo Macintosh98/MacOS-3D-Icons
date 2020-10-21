@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<linearGradient id="linearGradient907" x1="24.299129" x2="24.299129" y1="43.700867" y2="4.132174" gradientTransform="translate(.16695652 .083478261)" gradientUnits="userSpaceOnUse">
-<stop stop-color="#293e53" offset="0"/>
-<stop stop-color="#3f5f7e" offset="1"/>
-</linearGradient>
-</defs>
-<g>
-<rect x="4.1669564" y="4.0834785" width="40" height="40" rx="4" ry="4" fill="url(#linearGradient907)" style="paint-order:fill markers stroke"/>
-<path d="m31.152468 15.44336c-1.6265736 0.0850803-3.3370397 0.58479233-4.9786223 2.2263752l-14.901768 14.901768 3.0704003-0.38456653 3.7625168-3.7605637c0.28861624 0.0100965 0.58338495 0.0189375 0.89862945 0.0155307 1.5480152-0.0167275 3.3152294-0.19966224 4.2123114-1.0967442l3.4905419-3.4905419-0.83188804-0.36941217 1.5454821-0.34418184 1.8854786-1.8854785-0.82079497-0.33948526 1.4757251-0.31349153 2.3584875-2.3604406c0.34258772-0.34258772 1.2364834-0.9080529 2.0229984-1.3608183 0.78651506-0.45276537 1.4766772-0.8105904 1.4766772-0.8105904l0.90927856-0.46977847-1.0375861 0.0296663c-1.3657838 0.037275-2.9112943-0.27232662-4.5378679-0.18724652z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#ffffff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:fill markers stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
-</g>
-</svg>
+author.svg
